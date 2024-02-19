@@ -1,4 +1,4 @@
-## Automated ECR Inspector Remediation Pipeline with Generative AI
+## Automated vulnerability patching for secure application development
 
 This repository contains the architecture and codebase for an automated remediation pipeline designed to address ECR Inspector findings using the power of Generative AI, specifically leveraging Amazon Bedrock's in-context learning capabilities.
 
